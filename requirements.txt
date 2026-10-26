@@ -1,6 +1,4 @@
-opencv-python
 mediapipe
-moderngl
-trimesh
-Pillow
-scipy
+opencv-python
+numpy
+pygame
